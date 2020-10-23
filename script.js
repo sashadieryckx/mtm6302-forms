@@ -18,7 +18,7 @@ const forms = [
 const cards = [
     `
     <h1>Thank You Card</h1>
-    <p>Thank you<span id='name'></span>!</p>
+    <p>Thank you <span id='name'></span>!</p>
     `,
     `
     <h1>Invitation Card</h1>
